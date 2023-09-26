@@ -1,0 +1,45 @@
+EMPLOYEE MANAGEMENT SYSTEM
+TABLE OF CONTENTS
+1)INTRODUCTION
+2)FEATURES
+3)REQUIREMENTS
+4)INSTALLATION
+5)USAGE
+6)CONFIGURATION
+7)CONTRIBUTING
+8)LICENSE
+INTRODUCTION
+The Employee Management System is a Python-based application that allows organizations
+ to manage their employee data efficiently. It provides a user-friendly interface to perform various 
+tasks related to employee management, including adding, editing, and deleting employee records.
+FEATURES
+1)Employee Records- store and manage employee information such as name, contact details, and salary
+2)Search & Filter: Easily search employee and filter them on basis of different category
+3)Reports: It gives details of all the employee entered
+4)User Friendly Interface: It is a intuitive easy navigation for use.
+5)Customization: If want to make changes we can easily customize here.
+REQUIREMENTS:
+Ensure you have following prerequisites installed:
+Python complier, Pycharm, etc.
+Installation:
+Just open python app then open the file project.py and validations.py
+USAGE
+1)For Running the file go to project.py open the file and then run you will be redirected to console
+CONFIGURATION:
+You can customize or edit file by just going back to project.py and then saving it
+CONTRIBUTION:
+If any contributions require we welcome here
+1)You can add new features  here just by downloading and then editing information in our .py file.
+2)And then you can add your copy of it on our github profile.
+LICENSE
+For now there is no such license on file for any queries or questions contact
+mail-bhavna.shakya@amdocs.com
+github link-bhavnashakya09
+ 
+
+
+
+
+
+
+
